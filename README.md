@@ -1,4 +1,4 @@
-# Tic-Tac-Toe 🎮
+# Tic-Tac-Toe 
 
 A two-player Tic-Tac-Toe game built in Python as my first project on the Rockborne Data Engineering course.
 You can play against a friend or go up against the computer!
@@ -8,7 +8,7 @@ You can play against a friend or go up against the computer!
 ## Project Folder Structure
 
 ```
-04 Python-2/
+Python Rocknorne/
 │
 ├── Tic Tac Toe.py        ← the game code
 ├── README.md             ← this file
